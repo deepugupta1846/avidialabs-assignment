@@ -4,6 +4,7 @@
     display: flex;
     justify-content: center;
     margin:20px auto;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 .left-container{
     width:50%;
