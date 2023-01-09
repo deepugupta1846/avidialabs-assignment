@@ -5,7 +5,7 @@ export const Left_Container = () => {
   const personal_data = useSelector((state) => state.user.personalData);
   const skill = useSelector((state) => state.user.skill);
   const contact = useSelector((state) => state.user.contact);
-  console.log(personal_data);
+
   return (
     <>
       <div className="left-content">
