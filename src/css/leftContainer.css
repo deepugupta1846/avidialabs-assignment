@@ -45,6 +45,11 @@
 }
 .skill-item{
     margin-top: 10px;
+    
+}
+.skill-name{
+    text-transform: uppercase;
+    font-weight: 700;
 }
 .contact{
     margin-top: 10px;
