@@ -1,0 +1,36 @@
+.right-content{
+    width: 80%;
+    height: auto;
+    margin: 0px auto; 
+    padding: 0px 0px 10px 0px;
+    
+}
+.education-item{
+    margin-top: 20px;
+}
+.inst-name{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 700;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+.stream-name{
+    margin-bottom: 10px;
+}
+.language{
+    
+    
+  }
+  .language h3{
+    font-weight: 900;
+    
+  }
+.language-item{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  

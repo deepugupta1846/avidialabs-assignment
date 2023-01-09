@@ -1,0 +1,32 @@
+.container{
+    width: 60%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin:20px auto;
+}
+.left-container{
+    width:50%;
+    height: auto;
+    background-color: #caccd1;
+}
+
+.right-container{
+    width:50%;
+    height: auto; 
+}
+@media only screen and (max-width: 600px) {
+    .container{
+        width: 100%;
+        flex-direction: column;
+    }
+    .left-container{
+        width:100%;
+        height: auto;
+        background-color: #caccd1;
+    }
+    .right-container{
+        width:100%;
+        height: auto; 
+    }
+  }

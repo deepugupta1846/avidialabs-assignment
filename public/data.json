@@ -1,0 +1,79 @@
+{
+    "personalData":{
+        "image":"./assets/images/profile_pic.jpg",
+        "fullname":"devid tokan",
+        "role":"mid architect",
+        "about":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"
+    
+    },
+    "skill":[
+        {
+            "skillName":"interior design",
+            "percent":"60%"
+        },
+        {
+            "skillName":"3d modeling",
+            "percent":"80%"
+        },
+        {
+            "skillName":"photography",
+            "percent":"70%"
+        }
+
+    ],
+    "contact":{
+        "email":"devid.tokan@gmail.com",
+        "phone":"+1 (950) 555-1234"
+    },
+    "education":[
+        {
+            "institute":"University of Oklahoma",
+            "stream":"bachelor of architect",
+            "year":"2014"
+        },
+        {
+            "institute":"University of Oklahoma",
+            "stream":"master of architect",
+            "year":"2018"
+        }
+    ],
+    "language":[
+        {
+            "language":"English",
+            "percent":"90"
+        },
+        {
+            "language":"germon",
+            "percent":"60"
+        },
+        {
+            "language":"french",
+            "percent":"60"
+        }
+    ],
+    "experience":[
+        {
+            "position":"junior assistent",
+            "description":"worked on marketing campaign handled multiple digital account created digital marketing campaigns assisted the head designer",
+            "year":"2018"
+        },
+        {
+            "position":"junior architect",
+            "description":"worked on marketing campaign handled multiple digital account created digital marketing campaigns assisted the head designer",
+            "year":"2018"
+        },
+        {
+            "position":"project manager",
+            "description":"worked on marketing campaign handled multiple digital account created digital marketing campaigns assisted the head designer",
+            "year":"2018"
+        },
+        {
+            "position":"mid level architect",
+            "description":"worked on marketing campaign handled multiple digital account created digital marketing campaigns assisted the head designer",
+            "year":"2018"
+        }
+    ]
+
+    
+
+}
